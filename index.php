@@ -2,6 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Contalyt - Calculadora</title>
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -142,12 +143,12 @@ body{
           </div>
 
           <div class="d-flex justify-content-between">
-            <span>ISSS:</span>
+            <span>ISSS (3%):</span>
             <span id="isss" class="monto">$0.00</span>
           </div>
 
           <div class="d-flex justify-content-between">
-            <span>AFP:</span>
+            <span>AFP (7.25%):</span>
             <span id="afp" class="monto">$0.00</span>
           </div>
 
