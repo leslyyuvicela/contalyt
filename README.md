@@ -1,2 +1,2 @@
 # contalyt
-Calculadora de salario líquido
+App de contabilidad básica
