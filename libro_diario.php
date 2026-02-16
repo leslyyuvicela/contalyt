@@ -1,3 +1,7 @@
+<?php
+// Este archivo es principalmente HTML, pero necesita la etiqueta PHP inicial
+// para que el servidor lo procese correctamente
+?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -167,6 +171,3 @@ cargarLibro();
 
 </body>
 </html>
-<?php
-// Este espacio está intencionalmente vacío para evitar problemas con el servidor
-?>
