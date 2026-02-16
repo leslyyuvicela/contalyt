@@ -112,7 +112,6 @@ Registrar Operación
 </div>
 
 <script>
-
 function iniciarEmpresa(){
  let monto=document.getElementById("inicio").value;
 
@@ -164,8 +163,10 @@ function cargarLibro(){
 }
 
 cargarLibro();
-
 </script>
 
 </body>
 </html>
+<?php
+// Este espacio está intencionalmente vacío para evitar problemas con el servidor
+?>
